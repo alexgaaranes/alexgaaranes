@@ -4,5 +4,5 @@
 
  - I’m currently learning fundamentals of programming in Computer Science.
 ---
->How to reach me:
->email: rednuerocs@gmail.com (personal)
+> How to reach me: <br/>
+> email: rednuerocs@gmail.com (personal)
