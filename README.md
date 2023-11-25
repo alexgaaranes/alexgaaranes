@@ -2,7 +2,7 @@
 
  - I’m interested in learning more in Machine Learning and Artificial Intelligence.
 
- - I’m currently learning fundamentals of programming in Computer Science.
+ - I’m currently learning fundamentals and foundations of programming in Computer Science.
 ---
 > How to reach me: <br/>
 > email: rednuerocs@gmail.com (personal)
