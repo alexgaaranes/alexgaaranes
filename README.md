@@ -1,4 +1,4 @@
-### Hi, I’m @alexgaaranes. I'm a Computer Science Freshman in UPLB.
+### Hi, I’m Alex. I'm a Computer Science Freshman in UPLB.
 
  - I’m interested in learning more in Machine Learning and Artificial Intelligence.
 
