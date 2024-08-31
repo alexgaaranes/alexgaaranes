@@ -2,7 +2,7 @@
 
  - I’m interested in learning more in Machine Learning and Artificial Intelligence.
    
- - I have background in Python and C programming.
+ - I have background in Python, C, Java and R programming.
  
  - I'm currently studying different courses offered by Codedex
 
