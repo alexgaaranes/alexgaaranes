@@ -35,8 +35,7 @@ I am __computer science student__ from the University of the Philippines Los Ba�
 ### Codédex Journey
 I'm currently studying different courses offered by [Codédex](https://www.codedex.io/home).
 
-__#30NitesOfCode__
-[Check out my progress!](https://www.codedex.io/@alexgaaranes/30-nites-of-code)  
-![@alexgaaranes #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alexgaaranes)
+__#30NitesOfCode__<br>
+<a href="https://www.codedex.io/@alexgaaranes/30-nites-of-code"><img src="https://www.codedex.io/api/petStatus?user=alexgaaranes" style="width: 100px"></a>
 
 `return 0;`
