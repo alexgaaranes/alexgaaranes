@@ -35,12 +35,4 @@ A __computer science student__ from the University of the Philippines Los Baños
 
 </details>
 
----
-
-### Codédex Journey
-I'm currently studying different courses offered by [Codédex](https://www.codedex.io/home).
-
-__#30NitesOfCode__<br>
-<a href="https://www.codedex.io/@alexgaaranes/30-nites-of-code"><img src="https://www.codedex.io/api/petStatus?user=alexgaaranes" style="width: 100px"></a>
-
 `return 0;`
