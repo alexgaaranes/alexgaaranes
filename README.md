@@ -17,7 +17,7 @@ A __computer science student__ from the University of the Philippines Los Baños
 ### EXP
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,bash,neovim,git,replit,godot,arduino,vscode,idea,eclipse,sublime,flask&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,git,godot,arduino" />
 </a>
 
 <hr>
