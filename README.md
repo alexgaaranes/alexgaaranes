@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Alex!
 
-A __computer science student__ from the University of the Philippines Los Baños. I enjoy solving *programming problems* and formulating *efficient algorithms* from small to big programs. I'm interested in learning more about __machine learning__ and __artificial intelligence__.  
+A __computer science student__ from the University of the Philippines Los Baños. My interests are __machine learning__ and __artificial intelligence__. I also make __embedded__ and __low-level__ programming projects.
 
 ✨ Let's connect and `#define` the future!
 
