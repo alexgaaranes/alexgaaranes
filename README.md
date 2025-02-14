@@ -11,13 +11,13 @@ A computer science student from the __University of the Philippines Los Baños__
 ### Programming Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,c,cs,java,js,lua" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cs,java,js,dart,lua" />
 </a>
 
 ### EXP
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,git,godot,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,git,godot,arduino,flutter" />
 </a>
 
 <hr>
